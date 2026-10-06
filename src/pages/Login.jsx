@@ -27,7 +27,6 @@ const Login = () => {
 
     console.log("logging in")
     const response = await handleLogin(username, password);
-    console.log("client-login:", response)
     if (response.data.success === true)
     {
         setUser(username);
