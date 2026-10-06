@@ -44,7 +44,6 @@ const Register = () => {
     // register?
     // assuming good input by this point
     const response = await handleRegister(username, password);
-    console.log("client-registration:", response)
     if (response.data.success === true)
     {
         console.log(response)
