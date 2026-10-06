@@ -1,16 +1,36 @@
-# React + Vite
+# Dehank.com 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Dehank**, a fun entertainment platform inspired by sites like Newgrounds! This is where games get played, chat rooms buzz with conversation, and good times happen.
 
-Currently, two official plugins are available:
+> **🌐 Live Site:** [https://dehank.com](https://dehank.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+## What Is This?
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Dehank is a gaming and community website where I share games I've made, hang out in chat rooms, and generally create a space for entertainment and fun. Think of it as your go-to spot for casual gaming vibes and connecting with others who are into the same stuff.
 
-## Expanding the ESLint configuration
+This repository contains the **frontend/client code only** — the part you see and interact with in your browser. The backend server, databases, and deployment systems live in a separate private repository to keep everything secure.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## For Recruiters & Interviewers 👨‍💻
+
+This frontend-only repository is intentional—production security means keeping server code, secrets, and infrastructure configs private. However:
+
+> **If you're reviewing my work for hiring purposes and would like to see the full stack implementation, I'm happy to grant temporary access to the private backend repository.** Just reach out and I can add you as a collaborator or share specific sections.
+
+This way you get visibility into:
+- Backend architecture (Node.js/Express, database design, API structure)
+- Authentication and authorization flows
+- Deployment pipelines and DevOps practices
+- Any complex business logic or algorithms
+
+Feel free to ping me with any questions!
+
+
+## License
+
+This project is public, but please remember that the backend and certain proprietary elements remain private.
+
+Thanks for checking out dehank! Whether you're here to play games, chat, or just peek at the code, I hope you have fun. 🎉
+
+Live at [dehank.com](https://dehank.com)
